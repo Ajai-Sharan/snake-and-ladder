@@ -1,2 +1,3 @@
-(Link if image isn't clear)[https://excalidraw.com/#json=6std4fXmSCuel8riJlkPQ,ExA4UEPwcKtsLjyGCHzC4Q]
-<img width="5434" height="4366" alt="image" src="https://github.com/user-attachments/assets/7830ca8c-6a1d-4d52-80f0-ca34485ad766" />
+[Click this if the image isn't clear](https://excalidraw.com/#json=2E1gJ35MdAgcCcwKrpX4p,klDveMMDwdfvVq-uT_2D7A)
+
+<img width="736" height="674" alt="image" src="https://github.com/user-attachments/assets/411fedfa-c633-41c7-859a-1f20a9d7209e" />
